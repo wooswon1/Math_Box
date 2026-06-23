@@ -13,3 +13,7 @@ def divide_new(a, b):
 
 def get_median(a,b):
 	return (a+b)/2
+
+def get_remainder(a, b):
+	return a // b
+
